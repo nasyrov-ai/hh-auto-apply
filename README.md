@@ -1,5 +1,7 @@
 # HH Auto Apply — Автоматизация откликов на hh.ru с Claude AI
 
+[![CI](https://github.com/nasyrov-ai/hh-auto-apply/actions/workflows/ci.yml/badge.svg)](https://github.com/nasyrov-ai/hh-auto-apply/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Автоматически откликается на вакансии и отвечает в чаты от твоего имени.
 Каждое письмо генерирует Claude Opus — под конкретную вакансию.
 
